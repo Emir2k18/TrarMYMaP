@@ -1,0 +1,23 @@
+{
+  "Turk": {
+    "name": "Turk.png",
+    "x": 466,
+    "y": 703,
+    "width": 759,
+    "height": 423
+   },
+  "TrArmy": {
+    "name": "TrArmy.png",
+    "x": 2338,
+    "y": -987,
+    "width": 497,
+    "height": 133
+   },
+  "TrArmyAtaturk": {
+    "name": "TrArmyAtaturk.png",
+    "x": 2307,
+    "y": -854,
+    "width": 200,
+    "height": 200
+  }
+}
