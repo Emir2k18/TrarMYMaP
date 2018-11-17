@@ -13,6 +13,13 @@
     "width": 497,
     "height": 133
    },
+    "TrArmy": {
+    "name": "template.png",
+    "x": 919,
+    "y": -716,
+    "width": 287,
+    "height": 208
+   },
   "TrArmyAtaturk": {
     "name": "TrArmyAtaturk.png",
     "x": 2307,
